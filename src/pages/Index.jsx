@@ -8,7 +8,7 @@ const Index = () => {
         <Heading as="h1" size="2xl" textAlign="center">Welcome to MusicStream</Heading>
         <Text fontSize="lg" textAlign="center">Your ultimate destination for streaming your favorite music.</Text>
         <Box boxSize="sm">
-          <Image src="/images/music-streaming.jpg" alt="Music Streaming" borderRadius="md" />
+          <Image src="/images/album-cover.jpg" alt="Album Cover" borderRadius="md" />
         </Box>
         <Button colorScheme="teal" size="lg" leftIcon={<FaPlay />}>
           Start Listening
